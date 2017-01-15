@@ -1,5 +1,8 @@
 /* CSS for website */
-body > div > div.book-body > div > div.book-header{
+body > div > div.book-body > div > div.book-header {
+display:none
+}
+body > div > div.book-summary > nav > ul > li:nth-child(6) > a{
 display:none
 }
 
