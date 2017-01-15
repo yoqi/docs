@@ -4,7 +4,7 @@
 * [First Chapter](chapter1.md)
 * [tools相关文档](各wb.md)
     * [qrcode](qrcode.md)
-    * edit-online
+    * [edit-online](edit-online.md)
     * sparkweb
     * unix-timestamp
     * bootstrap-edit
