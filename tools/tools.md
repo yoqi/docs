@@ -25,5 +25,5 @@ md5    在线md5加密工具
 
 encode    在线encode编码工具
 
-bejson    在线json格式化工具
+[bejson    ](/tools/bejson.md)在线json格式化工具
 
