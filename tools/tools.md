@@ -5,7 +5,7 @@
 项目地址：[http://tools.yoqi.me/](http://tools.yoqi.me/)  
 后续本章所有接口都省略[http://tools.yoqi.me/](http://tools.yoqi.me/)
 
-qrcode    这个主要是生成二维码工具
+[qrcode    ](/qrcode.md)这个主要是生成二维码工具
 
 edit-online   在线编辑器
 
