@@ -8,7 +8,7 @@
 
 * （2）qrcode还提供api接口，通过发送给字符请求，返回二维码图片数据：
 
-[http://tools.yoqi.me//qrcode/encode.php/encode.php?content=](http://tools.yoqi.me//qrcode/encode.php/encode.php?content=)
+[http://tools.yoqi.me/qrcode/encode.php/encode.php?content=](http://tools.yoqi.me//qrcode/encode.php/encode.php?content=)
 
 ## Req
 
