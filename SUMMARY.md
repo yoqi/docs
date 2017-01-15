@@ -11,7 +11,7 @@
     * barcodegen
     * markdown
     * md5
-    * encode
+    * [encode](tools/encode.md)
     * [bejson](tools/bejson.md)
 * [第二章：blog.yoqi.me](blog/blog.md)
 * [总结](总结.md)
