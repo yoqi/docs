@@ -2,7 +2,7 @@
 
 虽然网络上很多website都提供在线工具。但是，很多时候，一些数据比较隐私，比如生成二维码，为此搭建这个tools项目，主要自己或者朋友间分享使用，毕竟带宽不是很够。。
 
-项目地址：[http:\/\/tools.yoqi.me\/](http://tools.yoqi.me/)
+项目地址：[http://tools.yoqi.me/](http://tools.yoqi.me/)
 
 qrcode    这个主要是生成二维码工具
 
