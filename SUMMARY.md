@@ -13,7 +13,7 @@
   * md5
   * encode
   * bejson
-* [第二章：blog.yoqi.me](第二章：blogyoqime.md)
+* [第二章：blog.yoqi.me](/blog/blog.md)
 * [总结](总结.md)
 
 
