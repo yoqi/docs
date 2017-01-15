@@ -10,7 +10,7 @@
     * skydrive-mp3
     * barcodegen
     * markdown
-    * md5
+    * [md5](tools/md5.md)
     * [encode](tools/encode.md)
     * [bejson](tools/bejson.md)
 * [第二章：blog.yoqi.me](blog/blog.md)
