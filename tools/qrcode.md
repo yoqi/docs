@@ -12,26 +12,17 @@
 
 ## Req
 
-POST `/qrcode/encode.php`
+POST/GET `/qrcode/encode.php`
 
 ### Body
 
 | Name | Type | Desc |
 | :--- | :--- | :--- |
-| mobile | string | 手机号 |
-| pwd | string | 密码 |
-| code | string | 验证码 |
-| couponcode | string | 送优惠券的兑换码 |
-| referrer | string | 销售来源 可为空, 4位字符串 |
+| content | string | 二维码内容 |
 
 ```js
 {
-  "mobile":"18600000000",
-  "pwd": "boo",
-  "code": "123456",
-  "couponcode" : "XWSALES001",
-  "referrer" : "1234"
-
+  "content":"hello"
 }
 ```
 
@@ -40,12 +31,7 @@ POST `/qrcode/encode.php`
 ### Body
 
 ```js
-{
-  "access_token": "1:+AABOCGhQ8uZTtNqa5uNbYtICCE8zPJp",
-  "refresh_token": "1:tESymptHpXXPImUl0gp7DNAPItwu87iJ",
-  "token_type": "Bearer",
-  "expires_in": 3599
-}
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0AQMAAABuVIRkAAAABlBMVEX///8AAABVwtN+AAAAkklEQVQ4jeXTQRLDMAgDQP2A//9SP1ARad3miHoMk8l4fWDAxsDjQxLnEyP3n45ZJdYFMbf0n11SbG8Vbv1t7IMk7+e7saN+1lsLYhXqs7c2y/naiOxeOp+3I3dGl8PUboRO977Pracm6Nzn1nORFFJf8+RuQvs9FL7vOXAf55mpzDjjvPaMREmVed7TzDQjPzpe9Dosw0s3Q8UAAAAASUVORK5CYII=
 ```
 
 
