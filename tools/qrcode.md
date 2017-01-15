@@ -8,7 +8,7 @@
 
 （2）qrcode还提供api接口：
 
-http:\/\/tools.yoqi.me\//qrcode/encode.php\/encode.php?content=
+http://tools.yoqi.me//qrcode/encode.php/encode.php?content=
 
 ## Req
 
@@ -16,13 +16,13 @@ POST `/qrcode/encode.php`
 
 ### Body
 
-| Name        | Type   | Desc   |
-|:------------|:-------|:-------|
-| mobile      | string | 手机号 |
-| pwd         | string | 密码   |
-| code        | string | 验证码 |
-| couponcode  | string | 送优惠券的兑换码 |
-| referrer    | string | 销售来源 可为空, 4位字符串|
+| Name | Type | Desc |
+| :--- | :--- | :--- |
+| mobile | string | 手机号 |
+| pwd | string | 密码 |
+| code | string | 验证码 |
+| couponcode | string | 送优惠券的兑换码 |
+| referrer | string | 销售来源 可为空, 4位字符串 |
 
 ```js
 {
@@ -36,7 +36,9 @@ POST `/qrcode/encode.php`
 ```
 
 ## Res
+
 ### Body
+
 ```js
 {
   "access_token": "1:+AABOCGhQ8uZTtNqa5uNbYtICCE8zPJp",
@@ -45,3 +47,6 @@ POST `/qrcode/encode.php`
   "expires_in": 3599
 }
 ```
+
+
+
