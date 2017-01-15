@@ -1,7 +1,7 @@
 # Summary
 
 * [引言](README.md)
-* [第一章：tools.yoqi.me]
+* [第一章：tools.yoqi.me](/tools/tools.md)
   * [qrcode](qrcode.md)
   * [edit-online](edit-online.md)
   * sparkweb
