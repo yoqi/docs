@@ -8,11 +8,11 @@
 
 （2）qrcode还提供api接口：
 
-http:\/\/tools.yoqi.me\/qrcode\/encode.php?content=
+http:\/\/tools.yoqi.me\//qrcode/encode.php\/encode.php?content=
 
 ## Req
 
-POST `/api/user/signup`
+POST `/qrcode/encode.php`
 
 ### Body
 
