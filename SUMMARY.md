@@ -5,11 +5,11 @@
     * [qrcode二维码生成](tools/qrcode.md)
     * [edit-online](tools/edit-online.md)
     * [sparkweb](tools/sparkweb.md)
-    * unix-timestamp
-    * bootstrap-edit
+    * [unix-timestamp](tools/unix-timestamp.md)
+    * [bootstrap-edit](tools/bootstrap-edit.md)
     * skydrive-mp3
-    * barcodegen
-    * markdown
+    * [barcodegen条码生成](tools/barcodegen.md)
+    * [markdown](tools/markdown.md)
     * [md5加密工具](tools/md5.md)
     * [encode](tools/encode.md)
     * [bejson](tools/bejson.md)
